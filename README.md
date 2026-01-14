@@ -1,4 +1,4 @@
-Intrusion Detection System (IDS) — Project Description & Run Guide
+ARP spoof detector — Project Description & Run Guide
 
 Great — here’s a clear, practical description of your IDS and a step‑by‑step run guide so anyone (you, teammates, or a reviewer) can run, test, and understand the project.
 
